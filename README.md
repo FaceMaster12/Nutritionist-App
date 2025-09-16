@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -18,3 +19,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1f0nW6rM_t3i6UjYVeaYo9K
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+=======
+# Nutritionist-App
+Nutritionist-App: Plan meals, track calories, and manage dietary goals.
+>>>>>>> 49353bc1829e90316cd292b921e8ad423ecd4f38
