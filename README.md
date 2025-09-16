@@ -1,25 +1,24 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Nutritionist-App
+Project Overview
 
-# Run and deploy your AI Studio app
+Nutritionist-App is a web application that helps users track nutrition, plan meals, and manage dietary goals. The app provides a simple interface for users to maintain a healthy lifestyle by keeping track of meals and calories.
 
-This contains everything you need to run your app locally.
+Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1f0nW6rM_t3i6UjYVeaYo9K7J-e6YZySO
+Track daily meals and nutritional intake
 
-## Run Locally
+Plan weekly or daily meal schedules
 
-**Prerequisites:**  Node.js
+View calorie and nutrient breakdowns
 
+Responsive design for mobile and desktop
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# Nutritionist-App
-Nutritionist-App: Plan meals, track calories, and manage dietary goals.
->>>>>>> 49353bc1829e90316cd292b921e8ad423ecd4f38
+Clean, user-friendly interface
+
+Technologies Used
+
+HTML – Structure of the web pages
+
+CSS – Styling and layout
+
+JavaScript – Interactive features and functionality
