@@ -1,0 +1,7 @@
+{
+  "name": "Nutritionist AI",
+  "description": "An AI-powered nutritionist to help you with your diet and health goals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
